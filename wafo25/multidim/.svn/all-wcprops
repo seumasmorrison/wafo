@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/49/trunk/wafo25/multidim
+END
+tran.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/49/trunk/wafo25/multidim/tran.m
+END
+testmeasurements.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/49/trunk/wafo25/multidim/testmeasurements.m
+END
+sensortypeid.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/49/trunk/wafo25/multidim/sensortypeid.m
+END
+dat2dspec.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/49/trunk/wafo25/multidim/dat2dspec.m
+END
+specoptset.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/49/trunk/wafo25/multidim/specoptset.m
+END
+fourier.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/49/trunk/wafo25/multidim/fourier.m
+END
+sensortype.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/49/trunk/wafo25/multidim/sensortype.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/49/trunk/wafo25/multidim/Contents.m
+END
+dspec2spreading.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/49/trunk/wafo25/multidim/dspec2spreading.m
+END
+ratio.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/49/trunk/wafo25/multidim/ratio.m
+END
+testbuoy.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/49/trunk/wafo25/multidim/testbuoy.m
+END
+testsurf.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/49/trunk/wafo25/multidim/testsurf.m
+END

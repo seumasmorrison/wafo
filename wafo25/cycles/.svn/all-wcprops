@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/40/trunk/wafo25/cycles
+END
+tp2lc.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/40/trunk/wafo25/cycles/tp2lc.m
+END
+cc2lc.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/40/trunk/wafo25/cycles/cc2lc.m
+END
+cmatresamp.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/40/trunk/wafo25/cycles/cmatresamp.m
+END
+extralc.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/40/trunk/wafo25/cycles/extralc.m
+END
+cmat2amp.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/wafo25/cycles/cmat2amp.m
+END
+cc2amp.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/40/trunk/wafo25/cycles/cc2amp.m
+END
+tp2arfc4p.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/wafo25/cycles/tp2arfc4p.m
+END
+nt2cmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/40/trunk/wafo25/cycles/nt2cmat.m
+END
+cmat2rmcmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/wafo25/cycles/cmat2rmcmat.m
+END
+cmat2extralc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/wafo25/cycles/cmat2extralc.txt
+END
+cc2cmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/40/trunk/wafo25/cycles/cc2cmat.m
+END
+lsplot.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/40/trunk/wafo25/cycles/lsplot.m
+END
+smoothcmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/40/trunk/wafo25/cycles/smoothcmat.m
+END
+dtp2rfm.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/40/trunk/wafo25/cycles/dtp2rfm.m
+END
+dtp2arfm.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/wafo25/cycles/dtp2arfm.m
+END
+cmatcombine.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/wafo25/cycles/cmatcombine.m
+END
+cmatplot.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/wafo25/cycles/cmatplot.m
+END
+plotcc.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/40/trunk/wafo25/cycles/plotcc.m
+END
+ccplot.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/40/trunk/wafo25/cycles/ccplot.m
+END
+cmat2lc.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/40/trunk/wafo25/cycles/cmat2lc.m
+END
+cmat2extralc.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/wafo25/cycles/cmat2extralc.m
+END
+tpextrapolate.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/wafo25/cycles/tpextrapolate.m
+END
+Readme.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/40/trunk/wafo25/cycles/Readme.m
+END
+rfmextrapolate.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/wafo25/cycles/rfmextrapolate.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/wafo25/cycles/Contents.m
+END
+tp2mm.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/40/trunk/wafo25/cycles/tp2mm.m
+END
+dat2rfm.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/40/trunk/wafo25/cycles/dat2rfm.m
+END
+tp2rfc.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/40/trunk/wafo25/cycles/tp2rfc.m
+END
+tp2arfc.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/40/trunk/wafo25/cycles/tp2arfc.m
+END
+dat2dtp.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/40/trunk/wafo25/cycles/dat2dtp.m
+END
+cocc.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/40/trunk/wafo25/cycles/cocc.m
+END
+res2arfc.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/wafo25/cycles/res2arfc.m
+END
+cmat2nt.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/40/trunk/wafo25/cycles/cmat2nt.m
+END
+rmcmat2cmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/wafo25/cycles/rmcmat2cmat.m
+END
+fitgenpar_mld.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/wafo25/cycles/fitgenpar_mld.m
+END
+dtp2rfm_sid.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/wafo25/cycles/dtp2rfm_sid.m
+END
+dtp2arfm_sid.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/wafo25/cycles/dtp2arfm_sid.m
+END
+lc2rfmextreme.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/wafo25/cycles/lc2rfmextreme.m
+END
+dcc2cmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/wafo25/cycles/dcc2cmat.m
+END
+rfcfilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/wafo25/cycles/rfcfilter.m
+END
+cc2dcc.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/40/trunk/wafo25/cycles/cc2dcc.m
+END
+smoothcmat_hnorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/wafo25/cycles/smoothcmat_hnorm.m
+END
+nt2lc.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/40/trunk/wafo25/cycles/nt2lc.m
+END
+dtp2arfm4p.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/40/trunk/wafo25/cycles/dtp2arfm4p.m
+END

@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/97/trunk/wafo25/onedim
+END
+lcplot.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/51/trunk/wafo25/onedim/lcplot.m
+END
+plotlc.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/51/trunk/wafo25/onedim/plotlc.m
+END
+dat2cor.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/51/trunk/wafo25/onedim/dat2cor.m
+END
+dat2crossind.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/51/trunk/wafo25/onedim/dat2crossind.m
+END
+parzen.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/51/trunk/wafo25/onedim/parzen.m
+END
+waveplot.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/51/trunk/wafo25/onedim/waveplot.m
+END
+dat2cov.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/51/trunk/wafo25/onedim/dat2cov.m
+END
+detrendma.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/51/trunk/wafo25/onedim/detrendma.m
+END
+spwaveplot.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/51/trunk/wafo25/onedim/spwaveplot.m
+END
+burg_filter.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/51/trunk/wafo25/onedim/burg_filter.m
+END
+welch_psd.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/51/trunk/wafo25/onedim/welch_psd.m
+END
+dat2lc.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/51/trunk/wafo25/onedim/dat2lc.m
+END
+mm2lc.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/51/trunk/wafo25/onedim/mm2lc.m
+END
+reconstruct.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/51/trunk/wafo25/onedim/reconstruct.m
+END
+welch_cpsd.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/51/trunk/wafo25/onedim/welch_cpsd.m
+END
+findrfc.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/51/trunk/wafo25/onedim/findrfc.m
+END
+dat2midind.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/51/trunk/wafo25/onedim/dat2midind.m
+END
+dat2tc.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/51/trunk/wafo25/onedim/dat2tc.m
+END
+hanning.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/51/trunk/wafo25/onedim/hanning.m
+END
+mem_psd.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/51/trunk/wafo25/onedim/mem_psd.m
+END
+covplot.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/51/trunk/wafo25/onedim/covplot.m
+END
+dat2spec2.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/51/trunk/wafo25/onedim/dat2spec2.m
+END
+findcross.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/51/trunk/wafo25/onedim/findcross.m
+END
+welch_psd2.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/51/trunk/wafo25/onedim/welch_psd2.m
+END
+dat2steep.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/51/trunk/wafo25/onedim/dat2steep.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/51/trunk/wafo25/onedim/Contents.m
+END
+Readme.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/51/trunk/wafo25/onedim/Readme.m
+END
+ecross.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/51/trunk/wafo25/onedim/ecross.m
+END
+dat2tp.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/51/trunk/wafo25/onedim/dat2tp.m
+END
+dat2spec.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/97/trunk/wafo25/onedim/dat2spec.m
+END
+findextrema.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/51/trunk/wafo25/onedim/findextrema.m
+END
+findoutliers.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/51/trunk/wafo25/onedim/findoutliers.m
+END
+cheby1.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/51/trunk/wafo25/onedim/cheby1.m
+END
+vc2sign.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/51/trunk/wafo25/onedim/vc2sign.m
+END
+hs2sign.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/51/trunk/wafo25/onedim/hs2sign.m
+END
+Maxmin.log
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/51/trunk/wafo25/onedim/Maxmin.log
+END
+bartlett.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/51/trunk/wafo25/onedim/bartlett.m
+END
+dat2wa.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/51/trunk/wafo25/onedim/dat2wa.m
+END

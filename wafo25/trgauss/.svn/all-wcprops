@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/57/trunk/wafo25/trgauss
+END
+cdf2tr.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/57/trunk/wafo25/trgauss/cdf2tr.m
+END
+spec2mmtpdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/57/trunk/wafo25/trgauss/spec2mmtpdf.m
+END
+prbnormndpc.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/57/trunk/wafo25/trgauss/prbnormndpc.m
+END
+th2vhpdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/57/trunk/wafo25/trgauss/th2vhpdf.m
+END
+tranproc.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/57/trunk/wafo25/trgauss/tranproc.m
+END
+ochitr.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/57/trunk/wafo25/trgauss/ochitr.m
+END
+spec2tpdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/57/trunk/wafo25/trgauss/spec2tpdf.m
+END
+nt2fr.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/57/trunk/wafo25/trgauss/nt2fr.m
+END
+rind.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/57/trunk/wafo25/trgauss/rind.m
+END
+cdflomax.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/57/trunk/wafo25/trgauss/cdflomax.m
+END
+createpdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/57/trunk/wafo25/trgauss/createpdf.m
+END
+chitwo2lc_sp.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/57/trunk/wafo25/trgauss/chitwo2lc_sp.m
+END
+spec2thpdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/57/trunk/wafo25/trgauss/spec2thpdf.m
+END
+iter.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/57/trunk/wafo25/trgauss/iter.m
+END
+spec2skew.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/57/trunk/wafo25/trgauss/spec2skew.m
+END
+testgaussian.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/57/trunk/wafo25/trgauss/testgaussian.m
+END
+gaus2dat.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/57/trunk/wafo25/trgauss/gaus2dat.m
+END
+spec2tpdf2.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/57/trunk/wafo25/trgauss/spec2tpdf2.m
+END
+specq2lc.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/57/trunk/wafo25/trgauss/specq2lc.m
+END
+trangood.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/57/trunk/wafo25/trgauss/trangood.m
+END
+trmak.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/57/trunk/wafo25/trgauss/trmak.m
+END
+cdfnorm2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/57/trunk/wafo25/trgauss/cdfnorm2d.m
+END
+mctp2rfc.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/57/trunk/wafo25/trgauss/mctp2rfc.m
+END
+dirsp2chitwo.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/57/trunk/wafo25/trgauss/dirsp2chitwo.m
+END
+iter_mc.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/57/trunk/wafo25/trgauss/iter_mc.m
+END
+trplot.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/57/trunk/wafo25/trgauss/trplot.m
+END
+troptset.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/57/trunk/wafo25/trgauss/troptset.m
+END
+prbnormtnd.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/57/trunk/wafo25/trgauss/prbnormtnd.m
+END
+lc2tr.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/57/trunk/wafo25/trgauss/lc2tr.m
+END
+spec2Acdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/57/trunk/wafo25/trgauss/spec2Acdf.m
+END
+rindoptset.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/57/trunk/wafo25/trgauss/rindoptset.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/57/trunk/wafo25/trgauss/Contents.m
+END
+Readme.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/57/trunk/wafo25/trgauss/Readme.m
+END
+chitwo2lc_sorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/57/trunk/wafo25/trgauss/chitwo2lc_sorm.m
+END
+dat2tr.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/57/trunk/wafo25/trgauss/dat2tr.m
+END
+spec2tccpdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/57/trunk/wafo25/trgauss/spec2tccpdf.m
+END
+prbnormnd.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/57/trunk/wafo25/trgauss/prbnormnd.m
+END
+hermitetr.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/57/trunk/wafo25/trgauss/hermitetr.m
+END
+prbnorm2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/57/trunk/wafo25/trgauss/prbnorm2d.m
+END
+spec2AcAt.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/57/trunk/wafo25/trgauss/spec2AcAt.m
+END
+lc2tr2.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/57/trunk/wafo25/trgauss/lc2tr2.m
+END
+prbnormtndpc.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/57/trunk/wafo25/trgauss/prbnormtndpc.m
+END
+pdfplot.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/57/trunk/wafo25/trgauss/pdfplot.m
+END
+dat2gaus.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/57/trunk/wafo25/trgauss/dat2gaus.m
+END
+mctp2tc.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/57/trunk/wafo25/trgauss/mctp2tc.m
+END
+mc2rfc.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/57/trunk/wafo25/trgauss/mc2rfc.m
+END
+trunmak.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/57/trunk/wafo25/trgauss/trunmak.m
+END
+spec2cmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/57/trunk/wafo25/trgauss/spec2cmat.m
+END

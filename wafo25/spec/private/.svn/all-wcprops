@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/55/trunk/wafo25/spec/private
+END
+spa2time.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/55/trunk/wafo25/spec/private/spa2time.m
+END
+time2spa.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/55/trunk/wafo25/spec/private/time2spa.m
+END
+dir2enc.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/55/trunk/wafo25/spec/private/dir2enc.m
+END
+ggamspec.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/55/trunk/wafo25/spec/private/ggamspec.m
+END
+dspec2dcov.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/55/trunk/wafo25/spec/private/dspec2dcov.m
+END
+dir2k1d.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/55/trunk/wafo25/spec/private/dir2k1d.m
+END

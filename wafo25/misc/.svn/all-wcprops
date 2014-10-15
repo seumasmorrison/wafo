@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/48/trunk/wafo25/misc
+END
+keep.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/48/trunk/wafo25/misc/keep.m
+END
+mkcontents.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/48/trunk/wafo25/misc/mkcontents.m
+END
+parseoptions.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/48/trunk/wafo25/misc/parseoptions.m
+END
+qrule.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/48/trunk/wafo25/misc/qrule.m
+END
+ismatlab.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/48/trunk/wafo25/misc/ismatlab.m
+END
+readme.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/48/trunk/wafo25/misc/readme.m
+END
+getshipchar.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/48/trunk/wafo25/misc/getshipchar.m
+END
+gaussq.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/48/trunk/wafo25/misc/gaussq.m
+END
+stirlerr.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/48/trunk/wafo25/misc/stirlerr.m
+END
+convlv.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/48/trunk/wafo25/misc/convlv.m
+END
+qrule2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/48/trunk/wafo25/misc/qrule2d.m
+END
+genchol.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/48/trunk/wafo25/misc/genchol.m
+END
+iscomnsize.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/48/trunk/wafo25/misc/iscomnsize.m
+END
+gravity.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/48/trunk/wafo25/misc/gravity.m
+END
+comnsize.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/48/trunk/wafo25/misc/comnsize.m
+END
+simpson.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/48/trunk/wafo25/misc/simpson.m
+END
+parent.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/48/trunk/wafo25/misc/parent.m
+END
+gaussq2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/48/trunk/wafo25/misc/gaussq2d.m
+END
+levels.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/48/trunk/wafo25/misc/levels.m
+END
+savgol.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/48/trunk/wafo25/misc/savgol.m
+END
+sinc.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/48/trunk/wafo25/misc/sinc.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/48/trunk/wafo25/misc/Contents.m
+END
+ccquad.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/48/trunk/wafo25/misc/ccquad.m
+END
+wafoversion.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/48/trunk/wafo25/misc/wafoversion.m
+END
+findpeaks.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/48/trunk/wafo25/misc/findpeaks.m
+END
+binom.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/48/trunk/wafo25/misc/binom.m
+END
+wdensity.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/48/trunk/wafo25/misc/wdensity.m
+END
+smooth.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/48/trunk/wafo25/misc/smooth.m
+END
+loaddata.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/48/trunk/wafo25/misc/loaddata.m
+END
+where.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/48/trunk/wafo25/misc/where.m
+END
+hypgf.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/48/trunk/wafo25/misc/hypgf.m
+END
+isoctave.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/48/trunk/wafo25/misc/isoctave.m
+END
+grule.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/48/trunk/wafo25/misc/grule.m
+END
+hrule.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/48/trunk/wafo25/misc/hrule.m
+END
+geth1line.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/48/trunk/wafo25/misc/geth1line.m
+END
+jrule.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/48/trunk/wafo25/misc/jrule.m
+END
+betaloge.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/48/trunk/wafo25/misc/betaloge.m
+END
+lrule.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/48/trunk/wafo25/misc/lrule.m
+END

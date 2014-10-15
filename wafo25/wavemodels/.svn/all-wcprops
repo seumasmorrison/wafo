@@ -1,0 +1,581 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/95/trunk/wafo25/wavemodels
+END
+history.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/history.txt
+END
+jhsnlpar21-Jul-2004.mat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/jhsnlpar21-Jul-2004.mat
+END
+testhspdfs.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/testhspdfs.m
+END
+ohhspar.mat
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/ohhspar.mat
+END
+b04jpdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/b04jpdf.m
+END
+thvpar.mat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thvpar.mat
+END
+jhsnlcdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/jhsnlcdf.m
+END
+thsspar27-Jul-2004.mat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thsspar27-Jul-2004.mat
+END
+ohhvpdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/ohhvpdf.m
+END
+thgparfun.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thgparfun.m
+END
+jhspdf2.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/jhspdf2.m
+END
+fitbray.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/fitbray.m
+END
+ohhgparfun.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/ohhgparfun.m
+END
+b04cdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/b04cdf.m
+END
+jhwparfun.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/jhwparfun.m
+END
+trraylpdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/trraylpdf.m
+END
+jhsnlpdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/jhsnlpdf.m
+END
+jhvnlpar.mat
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/jhvnlpar.mat
+END
+thspdf2.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thspdf2.m
+END
+cdfbray.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/cdfbray.m
+END
+jhspar.mat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/jhspar.mat
+END
+thvcdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thvcdf.m
+END
+thwparfun.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thwparfun.m
+END
+ohhscdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/ohhscdf.m
+END
+b04pdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/b04pdf.m
+END
+thsnlpar06-Aug-2004.mat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thsnlpar06-Aug-2004.mat
+END
+pdfbray.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/pdfbray.m
+END
+mk87rnd.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/mk87rnd.m
+END
+thvpdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thvpdf.m
+END
+ohhspdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/ohhspdf.m
+END
+jhspar13-Jul-2004.mat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/jhspar13-Jul-2004.mat
+END
+ohhvpar.mat
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/ohhvpar.mat
+END
+thsspdf2.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thsspdf2.m
+END
+bmr00cdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/bmr00cdf.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/Contents.m
+END
+jhvnlcdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/jhvnlcdf.m
+END
+ohhsscdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/ohhsscdf.m
+END
+mk87pdf2.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/mk87pdf2.m
+END
+pdfseastate.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/pdfseastate.m
+END
+jhsnlpar.mat
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/jhsnlpar.mat
+END
+lh83pdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/lh83pdf.m
+END
+bmr00pdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/bmr00pdf.m
+END
+jhvnlpdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/jhvnlpdf.m
+END
+thscdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thscdf.m
+END
+ohhsspdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/ohhsspdf.m
+END
+tay81fun.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/tay81fun.m
+END
+jhvpar.mat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/jhvpar.mat
+END
+tay81cdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/tay81cdf.m
+END
+thspdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thspdf.m
+END
+bmr00pdf2.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/bmr00pdf2.m
+END
+ohhsgpar.mat
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/ohhsgpar.mat
+END
+ohhsspdf2.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/ohhsspdf2.m
+END
+tay81pdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/tay81pdf.m
+END
+b04pdf2.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/b04pdf2.m
+END
+mk87cdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/mk87cdf.m
+END
+jhvpdf2.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/jhvpdf2.m
+END
+jhvcdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/jhvcdf.m
+END
+thsnlcdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thsnlcdf.m
+END
+ochi98fit.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/ochi98fit.m
+END
+thsspar.mat
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thsspar.mat
+END
+thgpar.mat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thgpar.mat
+END
+ohhsspar.mat
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/ohhsspar.mat
+END
+ohhspdf2.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/ohhspdf2.m
+END
+thvpdf2.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thvpdf2.m
+END
+tay90fun.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/tay90fun.m
+END
+cav76pdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/cav76pdf.m
+END
+mk87pdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/mk87pdf.m
+END
+ochi98cdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/ochi98cdf.m
+END
+jhvpdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/jhvpdf.m
+END
+thsnlpdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thsnlpdf.m
+END
+tay90cdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/tay90cdf.m
+END
+thspar.mat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thspar.mat
+END
+thcdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thcdf.m
+END
+thwpar.mat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thwpar.mat
+END
+jhsnlpdf2.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/jhsnlpdf2.m
+END
+ohhcdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/ohhcdf.m
+END
+jhvnlpdf2.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/jhvnlpdf2.m
+END
+ochi98pdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/ochi98pdf.m
+END
+Readme.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/Readme.m
+END
+thsscdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thsscdf.m
+END
+jhnlwparfun.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/jhnlwparfun.m
+END
+tay90pdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/tay90pdf.m
+END
+jhscdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/jhscdf.m
+END
+thwnlpar20-Jul-2004.mat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thwnlpar20-Jul-2004.mat
+END
+ltwcpdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/95/trunk/wafo25/wavemodels/ltwcpdf.m
+END
+thsnlpdf2.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thsnlpdf2.m
+END
+thpdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thpdf.m
+END
+ohhpdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/ohhpdf.m
+END
+thspar19-Jul-2004.mat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thspar19-Jul-2004.mat
+END
+b04jpdf2.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/b04jpdf2.m
+END
+thsspdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thsspdf.m
+END
+b04jcdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/b04jcdf.m
+END
+ohhgpar.mat
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/ohhgpar.mat
+END
+jhspdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/jhspdf.m
+END
+jhspar18-Jan-2006.mat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/jhspar18-Jan-2006.mat
+END
+thsnlpar.mat
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/58/trunk/wafo25/wavemodels/thsnlpar.mat
+END

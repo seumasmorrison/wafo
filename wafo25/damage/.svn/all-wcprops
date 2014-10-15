@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/41/trunk/wafo25/damage
+END
+spec2dplus.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/41/trunk/wafo25/damage/spec2dplus.m
+END
+lc2dplus.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/41/trunk/wafo25/damage/lc2dplus.m
+END
+cmat2dam.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/41/trunk/wafo25/damage/cmat2dam.m
+END
+cc2dam.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/41/trunk/wafo25/damage/cc2dam.m
+END
+damint.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/41/trunk/wafo25/damage/damint.m
+END
+cmat2dmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/41/trunk/wafo25/damage/cmat2dmat.m
+END
+sphdam.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/41/trunk/wafo25/damage/sphdam.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/41/trunk/wafo25/damage/Contents.m
+END
+down2cc.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/41/trunk/wafo25/damage/down2cc.m
+END
+ftf.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/41/trunk/wafo25/damage/ftf.m
+END
+snplot.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/41/trunk/wafo25/damage/snplot.m
+END
+plotsn.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/41/trunk/wafo25/damage/plotsn.m
+END
+roadspec.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/41/trunk/wafo25/damage/roadspec.m
+END

@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/47/trunk/wafo25/markov
+END
+mc2rfm.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/47/trunk/wafo25/markov/mc2rfm.m
+END
+mat2tmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/47/trunk/wafo25/markov/mat2tmat.m
+END
+f_smctp.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/47/trunk/wafo25/markov/f_smctp.m
+END
+hdcmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/47/trunk/wafo25/markov/hdcmat.m
+END
+loglcmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/47/trunk/wafo25/markov/loglcmat.m
+END
+estsmctp.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/47/trunk/wafo25/markov/estsmctp.m
+END
+mktestmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/47/trunk/wafo25/markov/mktestmat.m
+END
+f_funm.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/47/trunk/wafo25/markov/f_funm.m
+END
+tr_m2x.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/47/trunk/wafo25/markov/tr_m2x.m
+END
+tr_x2m.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/47/trunk/wafo25/markov/tr_x2m.m
+END
+smctp2joint.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/47/trunk/wafo25/markov/smctp2joint.m
+END
+smctp2rfm.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/47/trunk/wafo25/markov/smctp2rfm.m
+END
+tr_p2x.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/47/trunk/wafo25/markov/tr_p2x.m
+END
+tr_x2p.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/47/trunk/wafo25/markov/tr_x2p.m
+END
+hmmplot.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/47/trunk/wafo25/markov/hmmplot.m
+END
+mctp2stat.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/47/trunk/wafo25/markov/mctp2stat.m
+END
+scalemat.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/47/trunk/wafo25/markov/scalemat.m
+END
+mctp2rfm.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/47/trunk/wafo25/markov/mctp2rfm.m
+END
+chi2cmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/47/trunk/wafo25/markov/chi2cmat.m
+END
+arfm2mctp.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/47/trunk/wafo25/markov/arfm2mctp.m
+END
+mctp2arfm.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/47/trunk/wafo25/markov/mctp2arfm.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/47/trunk/wafo25/markov/Contents.m
+END
+Readme.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/47/trunk/wafo25/markov/Readme.m
+END
+smctp2stat.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/47/trunk/wafo25/markov/smctp2stat.m
+END
+smc2rfm.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/47/trunk/wafo25/markov/smc2rfm.m
+END
+estmc.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/47/trunk/wafo25/markov/estmc.m
+END
+klcmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/47/trunk/wafo25/markov/klcmat.m
+END
+mc2stat.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/47/trunk/wafo25/markov/mc2stat.m
+END
+smctp2arfm.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/47/trunk/wafo25/markov/smctp2arfm.m
+END
+plothmm.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/47/trunk/wafo25/markov/plothmm.m
+END
+mctp2reverse.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/47/trunk/wafo25/markov/mctp2reverse.m
+END

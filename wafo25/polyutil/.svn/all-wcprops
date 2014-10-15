@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/52/trunk/wafo25/polyutil
+END
+polydiv.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/52/trunk/wafo25/polyutil/polydiv.m
+END
+polyadd.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/52/trunk/wafo25/polyutil/polyadd.m
+END
+polynder.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/52/trunk/wafo25/polyutil/polynder.m
+END
+readme.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/52/trunk/wafo25/polyutil/readme.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/52/trunk/wafo25/polyutil/Contents.m
+END
+polysub.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/52/trunk/wafo25/polyutil/polysub.m
+END
+poly2str.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/52/trunk/wafo25/polyutil/poly2str.m
+END
+polyint.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/52/trunk/wafo25/polyutil/polyint.m
+END
+polymul.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/52/trunk/wafo25/polyutil/polymul.m
+END
+poly2hstr.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/52/trunk/wafo25/polyutil/poly2hstr.m
+END
+polyreloc.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/52/trunk/wafo25/polyutil/polyreloc.m
+END
+polyshft.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/52/trunk/wafo25/polyutil/polyshft.m
+END
+polypow.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/52/trunk/wafo25/polyutil/polypow.m
+END
+polynint.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/52/trunk/wafo25/polyutil/polynint.m
+END
+polyrescl.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/52/trunk/wafo25/polyutil/polyrescl.m
+END
+polytrim.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/52/trunk/wafo25/polyutil/polytrim.m
+END
+polyishft.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/52/trunk/wafo25/polyutil/polyishft.m
+END

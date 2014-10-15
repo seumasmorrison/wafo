@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/50/trunk/wafo25/numdifftools
+END
+derivest.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/50/trunk/wafo25/numdifftools/derivest.m
+END
+demo_multivariable_calc.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/50/trunk/wafo25/numdifftools/demo_multivariable_calc.m
+END
+directionaldiff.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/50/trunk/wafo25/numdifftools/directionaldiff.m
+END
+hessdiag.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/50/trunk/wafo25/numdifftools/hessdiag.m
+END
+gradest.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/50/trunk/wafo25/numdifftools/gradest.m
+END
+demo_derivest.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/50/trunk/wafo25/numdifftools/demo_derivest.m
+END
+hessian.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/50/trunk/wafo25/numdifftools/hessian.m
+END
+ReadMe.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/50/trunk/wafo25/numdifftools/ReadMe.rtf
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/50/trunk/wafo25/numdifftools/Contents.m
+END
+Readme.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/50/trunk/wafo25/numdifftools/Readme.m
+END
+jacobianest.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/50/trunk/wafo25/numdifftools/jacobianest.m
+END

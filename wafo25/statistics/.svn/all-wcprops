@@ -1,0 +1,1691 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/97/trunk/wafo25/statistics
+END
+plotmarg2dmom.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotmarg2dmom.m
+END
+cdfbin.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfbin.m
+END
+testmean1boot.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/56/trunk/wafo25/statistics/testmean1boot.m
+END
+pdfgengammod.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfgengammod.m
+END
+rndchi2.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndchi2.m
+END
+momf.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/56/trunk/wafo25/statistics/momf.m
+END
+lnkgumb.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/lnkgumb.m
+END
+momfrech.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/56/trunk/wafo25/statistics/momfrech.m
+END
+getmodel.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/56/trunk/wafo25/statistics/getmodel.m
+END
+rndgengam.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndgengam.m
+END
+fitmargcnd2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/56/trunk/wafo25/statistics/fitmargcnd2d.m
+END
+pdfgenpar.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfgenpar.m
+END
+invdiscrete.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/56/trunk/wafo25/statistics/invdiscrete.m
+END
+testmean1n.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/testmean1n.m
+END
+fitmarg2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/fitmarg2d.m
+END
+dgammainc.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/dgammainc.m
+END
+invgam.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/invgam.m
+END
+cnr2cl.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/cnr2cl.m
+END
+demofitgenpar.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/56/trunk/wafo25/statistics/demofitgenpar.m
+END
+ciproflog.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/ciproflog.m
+END
+iqrange.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/iqrange.m
+END
+momci1b.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/momci1b.m
+END
+pdfnormnd.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfnormnd.m
+END
+plotgumb.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotgumb.m
+END
+invcweib2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/invcweib2d.m
+END
+plotnorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotnorm.m
+END
+margcnd2dsmfun.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/56/trunk/wafo25/statistics/margcnd2dsmfun.m
+END
+likweib2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/likweib2d.m
+END
+stdboot.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/stdboot.m
+END
+rndpois.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndpois.m
+END
+pdffrech.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdffrech.m
+END
+fitgev.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/fitgev.m
+END
+momweib2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/momweib2d.m
+END
+retper2prb.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/retper2prb.m
+END
+plotbox.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotbox.m
+END
+res_skewkurt.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/56/trunk/wafo25/statistics/res_skewkurt.m
+END
+pdfgengam.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfgengam.m
+END
+alias.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/56/trunk/wafo25/statistics/alias.m
+END
+cdfweib2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfweib2d.m
+END
+decluster.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/decluster.m
+END
+margcnd2dsmfun2.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/56/trunk/wafo25/statistics/margcnd2dsmfun2.m
+END
+fitgenparrange.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/56/trunk/wafo25/statistics/fitgenparrange.m
+END
+pdfempirical.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfempirical.m
+END
+lnkexp.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/lnkexp.m
+END
+plotmargcnd2dfit.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotmargcnd2dfit.m
+END
+reglm.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/56/trunk/wafo25/statistics/reglm.m
+END
+plotmargcnd2dmom.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotmargcnd2dmom.m
+END
+cdfmargcnd2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfmargcnd2d.m
+END
+rndweib2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndweib2d.m
+END
+prbweib2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/prbweib2d.m
+END
+center.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/center.m
+END
+pdfinvnorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfinvnorm.m
+END
+mlest.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/56/trunk/wafo25/statistics/mlest.m
+END
+princomp.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/56/trunk/wafo25/statistics/princomp.m
+END
+invcauchy.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/invcauchy.m
+END
+fitgumb.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/fitgumb.m
+END
+lnkray.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/lnkray.m
+END
+invf.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/56/trunk/wafo25/statistics/invf.m
+END
+invfrech.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/56/trunk/wafo25/statistics/invfrech.m
+END
+cdfinvnorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfinvnorm.m
+END
+cdfgumb.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfgumb.m
+END
+fitgam.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/fitgam.m
+END
+invraymod.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/invraymod.m
+END
+invhyge.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/invhyge.m
+END
+pdfgev.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfgev.m
+END
+fitnorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/fitnorm.m
+END
+covjack.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/covjack.m
+END
+testmean2n.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/testmean2n.m
+END
+anovan.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/anovan.m
+END
+rndgev.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndgev.m
+END
+yates.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/56/trunk/wafo25/statistics/yates.m
+END
+momlognorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/momlognorm.m
+END
+cdfnorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfnorm.m
+END
+invbeta.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/invbeta.m
+END
+momgev.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/momgev.m
+END
+lnkweib.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/lnkweib.m
+END
+invcmarg2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/invcmarg2d.m
+END
+stdize.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/stdize.m
+END
+invchi2.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/invchi2.m
+END
+momhyge.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/momhyge.m
+END
+pdfweib2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfweib2d.m
+END
+invexp.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/invexp.m
+END
+mombeta.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/mombeta.m
+END
+plotweib.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotweib.m
+END
+mommarg2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/mommarg2d.m
+END
+plotdisprsnidx.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotdisprsnidx.m
+END
+pdfhyge.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfhyge.m
+END
+plotweib2dcdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotweib2dcdf.m
+END
+cdfmarg2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfmarg2d.m
+END
+invgenpar.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/invgenpar.m
+END
+fitinvnorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/fitinvnorm.m
+END
+pdfgam.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfgam.m
+END
+momchi2.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/momchi2.m
+END
+pdfbeta.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfbeta.m
+END
+rename_mfiles.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/56/trunk/wafo25/statistics/rename_mfiles.m
+END
+ryates.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/ryates.m
+END
+rndgam.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndgam.m
+END
+invray.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/invray.m
+END
+momgam.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/momgam.m
+END
+logit.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/56/trunk/wafo25/statistics/logit.m
+END
+pdfchi2.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfchi2.m
+END
+pdfweibmod.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfweibmod.m
+END
+rndmarg2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndmarg2d.m
+END
+cl2cnr.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/cl2cnr.m
+END
+invpois.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/invpois.m
+END
+rndfrech.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndfrech.m
+END
+pdfdiscrete.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfdiscrete.m
+END
+rndgumb.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndgumb.m
+END
+cdfweibmod.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfweibmod.m
+END
+extremalidxrange.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/56/trunk/wafo25/statistics/extremalidxrange.m
+END
+findpot.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/findpot.m
+END
+ciquant.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/ciquant.m
+END
+fitt.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/56/trunk/wafo25/statistics/fitt.m
+END
+gammaincln.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/gammaincln.m
+END
+rndt.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndt.m
+END
+mommargcnd2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/56/trunk/wafo25/statistics/mommargcnd2d.m
+END
+plotscatr.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotscatr.m
+END
+lmoment.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/lmoment.m
+END
+invgengam.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/invgengam.m
+END
+cdfgengammod.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfgengammod.m
+END
+fitgenparrangepos.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/56/trunk/wafo25/statistics/fitgenparrangepos.m
+END
+rndnorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndnorm.m
+END
+mompois.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/mompois.m
+END
+invbin.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/invbin.m
+END
+nameconversion.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/56/trunk/wafo25/statistics/nameconversion.m
+END
+plotreslife.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotreslife.m
+END
+rndalpha.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndalpha.m
+END
+fitweib.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/fitweib.m
+END
+logitinv.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/56/trunk/wafo25/statistics/logitinv.m
+END
+Readme.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/Readme.m
+END
+fitexp.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/fitexp.m
+END
+cdfweib.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfweib.m
+END
+fitmodel.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/56/trunk/wafo25/statistics/fitmodel.m
+END
+pdfpois.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfpois.m
+END
+pdfmarg2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfmarg2d.m
+END
+pdflognorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdflognorm.m
+END
+loglike.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/loglike.m
+END
+hill.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/56/trunk/wafo25/statistics/hill.m
+END
+plotmarg2dcdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotmarg2dcdf.m
+END
+fitweibmod.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/fitweibmod.m
+END
+genparthresh.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/56/trunk/wafo25/statistics/genparthresh.m
+END
+cdflognorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdflognorm.m
+END
+plotedf.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotedf.m
+END
+fitray.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/fitray.m
+END
+cdfgev.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfgev.m
+END
+fitraymod.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/fitraymod.m
+END
+edf.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/56/trunk/wafo25/statistics/edf.m
+END
+createfdata.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/56/trunk/wafo25/statistics/createfdata.m
+END
+rndmargcnd2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndmargcnd2d.m
+END
+prbmargcnd2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/56/trunk/wafo25/statistics/prbmargcnd2d.m
+END
+rnddiscrete.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/56/trunk/wafo25/statistics/rnddiscrete.m
+END
+cdr.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdr.m
+END
+skew.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/97/trunk/wafo25/statistics/skew.m
+END
+plotresq.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotresq.m
+END
+fitweib3.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/95/trunk/wafo25/statistics/fitweib3.m
+END
+cdft.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/64/trunk/wafo25/statistics/cdft.m
+END
+cdfempirical.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfempirical.m
+END
+testmean1r.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/testmean1r.m
+END
+logps.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/56/trunk/wafo25/statistics/logps.m
+END
+pdfexp.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfexp.m
+END
+plotres_skewkurt.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotres_skewkurt.m
+END
+testgumb.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/56/trunk/wafo25/statistics/testgumb.m
+END
+plotexp.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotexp.m
+END
+plotresprb.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotresprb.m
+END
+rndexp.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndexp.m
+END
+var2corr.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/56/trunk/wafo25/statistics/var2corr.m
+END
+momexp.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/momexp.m
+END
+clickslct.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/clickslct.m
+END
+cdfdiscrete.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfdiscrete.m
+END
+fitgenpar.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/fitgenpar.m
+END
+fitlognorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/fitlognorm.m
+END
+cdfgam.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfgam.m
+END
+plotedfcnd.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotedfcnd.m
+END
+kurt.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/56/trunk/wafo25/statistics/kurt.m
+END
+pdfray.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfray.m
+END
+lnkgumbtrnc.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/56/trunk/wafo25/statistics/lnkgumbtrnc.m
+END
+rndf.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndf.m
+END
+plotray.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotray.m
+END
+rndweib.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndweib.m
+END
+pdft.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdft.m
+END
+rndray.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndray.m
+END
+momray.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/momray.m
+END
+invinvnorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/invinvnorm.m
+END
+invgumb.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/invgumb.m
+END
+covboot.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/covboot.m
+END
+reglogit.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/56/trunk/wafo25/statistics/reglogit.m
+END
+plotmargcnd2dcdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotmargcnd2dcdf.m
+END
+lnkgenpar.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/lnkgenpar.m
+END
+plotfitsumry.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotfitsumry.m
+END
+stdjack.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/stdjack.m
+END
+findciproflog.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/56/trunk/wafo25/statistics/findciproflog.m
+END
+extremalidx.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/56/trunk/wafo25/statistics/extremalidx.m
+END
+comnsize.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/56/trunk/wafo25/statistics/comnsize.m
+END
+invnorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/invnorm.m
+END
+reslife.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/reslife.m
+END
+pdfnorm2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfnorm2d.m
+END
+range.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/56/trunk/wafo25/statistics/range.m
+END
+rndinvnorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndinvnorm.m
+END
+fitgengam.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/fitgengam.m
+END
+pdfbin.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfbin.m
+END
+momgumb.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/momgumb.m
+END
+proflog.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/proflog.m
+END
+rndbin.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndbin.m
+END
+histgrm.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/histgrm.m
+END
+mombin.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/mombin.m
+END
+history.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/history.txt
+END
+testmean2r.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/testmean2r.m
+END
+momnorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/momnorm.m
+END
+pdfgumb.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfgumb.m
+END
+prb2retper.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/prb2retper.m
+END
+disprsnidx.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/disprsnidx.m
+END
+cdfcauchy.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfcauchy.m
+END
+pdfmargcnd2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfmargcnd2d.m
+END
+cdff.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/64/trunk/wafo25/statistics/cdff.m
+END
+rndgengammod.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndgengammod.m
+END
+cdffrech.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdffrech.m
+END
+disprsnidxrange.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/56/trunk/wafo25/statistics/disprsnidxrange.m
+END
+pdfnorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfnorm.m
+END
+cdfraymod.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfraymod.m
+END
+cdfhyge.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfhyge.m
+END
+momt.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/56/trunk/wafo25/statistics/momt.m
+END
+fitbeta.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/fitbeta.m
+END
+ciboot.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/ciboot.m
+END
+rndcauchy.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndcauchy.m
+END
+edfcnd.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/edfcnd.m
+END
+plotweib2dmom.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotweib2dmom.m
+END
+lnkgev.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/lnkgev.m
+END
+cdfmargcnd2dfun.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfmargcnd2dfun.m
+END
+cdfbeta.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfbeta.m
+END
+fitchi2.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/fitchi2.m
+END
+percentile.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/percentile.m
+END
+nplot.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/56/trunk/wafo25/statistics/nplot.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/56/trunk/wafo25/statistics/Contents.m
+END
+rndraymod.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndraymod.m
+END
+sudg.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/56/trunk/wafo25/statistics/sudg.m
+END
+cdfchi2.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfchi2.m
+END
+invweibmod.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/invweibmod.m
+END
+cdfexp.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfexp.m
+END
+invgengammod.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/56/trunk/wafo25/statistics/invgengammod.m
+END
+likgenpar.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/likgenpar.m
+END
+fitweib2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/fitweib2d.m
+END
+pdff.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdff.m
+END
+regnonlm.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/56/trunk/wafo25/statistics/regnonlm.m
+END
+momgenpar.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/momgenpar.m
+END
+cdfgenpar.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfgenpar.m
+END
+rndweibmod.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndweibmod.m
+END
+plotresponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotresponse.m
+END
+ffd.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/56/trunk/wafo25/statistics/ffd.m
+END
+plotkde.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotkde.m
+END
+regsteplm.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/regsteplm.m
+END
+invweib.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/invweib.m
+END
+getdistname.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/56/trunk/wafo25/statistics/getdistname.m
+END
+spearman.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/56/trunk/wafo25/statistics/spearman.m
+END
+pdfcauchy.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfcauchy.m
+END
+ranktrf.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/ranktrf.m
+END
+cdfray.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfray.m
+END
+parsestatsinput.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/56/trunk/wafo25/statistics/parsestatsinput.m
+END
+rndempirical.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndempirical.m
+END
+cdfnormnd.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfnormnd.m
+END
+expthresh.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/expthresh.m
+END
+plotdensity.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotdensity.m
+END
+rndgenpar.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndgenpar.m
+END
+pdfraymod.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfraymod.m
+END
+cdfpois.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfpois.m
+END
+invlognorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/invlognorm.m
+END
+invgev.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/invgev.m
+END
+momweib.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/momweib.m
+END
+rndhyge.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndhyge.m
+END
+mominvnorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/mominvnorm.m
+END
+rndnormnd.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndnormnd.m
+END
+momgengam.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/momgengam.m
+END
+rndboot.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndboot.m
+END
+fitgenparml.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/56/trunk/wafo25/statistics/fitgenparml.m
+END
+cdfgengam.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/wafo25/statistics/cdfgengam.m
+END
+regglm.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/regglm.m
+END
+rndbeta.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndbeta.m
+END
+pdfweib.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/wafo25/statistics/pdfweib.m
+END
+plotqq.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/56/trunk/wafo25/statistics/plotqq.m
+END
+invt.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/56/trunk/wafo25/statistics/invt.m
+END
+rndlognorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/wafo25/statistics/rndlognorm.m
+END
+invempirical.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/56/trunk/wafo25/statistics/invempirical.m
+END

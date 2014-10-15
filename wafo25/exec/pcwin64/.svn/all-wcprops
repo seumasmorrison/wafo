@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/105/trunk/wafo25/exec/pcwin64
+END
+down2cc.exe
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/105/trunk/wafo25/exec/pcwin64/down2cc.exe
+END
+cov2thpdf.exe
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/105/trunk/wafo25/exec/pcwin64/cov2thpdf.exe
+END
+rindd.exe
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/105/trunk/wafo25/exec/pcwin64/rindd.exe
+END
+cov2mmtpdf.exe
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/105/trunk/wafo25/exec/pcwin64/cov2mmtpdf.exe
+END
+cov2acdf.exe
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/105/trunk/wafo25/exec/pcwin64/cov2acdf.exe
+END
+minmax.exe
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/105/trunk/wafo25/exec/pcwin64/minmax.exe
+END
+cov2mmpdfreg.exe
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/105/trunk/wafo25/exec/pcwin64/cov2mmpdfreg.exe
+END
+cov2tccpdf.exe
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/105/trunk/wafo25/exec/pcwin64/cov2tccpdf.exe
+END
+cov2mmpdf.exe
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/105/trunk/wafo25/exec/pcwin64/cov2mmpdf.exe
+END
+simduff.exe
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/105/trunk/wafo25/exec/pcwin64/simduff.exe
+END
